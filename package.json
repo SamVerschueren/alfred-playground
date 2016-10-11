@@ -34,7 +34,7 @@
     "playground"
   ],
   "dependencies": {
-    "alfy": "https://github.com/sindresorhus/alfy#master"
+    "alfy": "sindresorhus/alfy#master"
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",

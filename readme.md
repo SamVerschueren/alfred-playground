@@ -1,8 +1,9 @@
 # alfred-playground [![Build Status](https://travis-ci.org/SamVerschueren/alfred-playground.svg?branch=master)](https://travis-ci.org/SamVerschueren/alfred-playground)
 
-> My cat&#39;s pajamas module
+> My cat's pajamas module
 
 Just me experimenting 🎩🎩
+
 
 ## Install
 
